@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: white;
+    font-size: 40px;
+    margin-left: 500px;
+}
+
+p{
+    font-size: 30px;
+    color: white;
+    margin-left: 35px;
+
+}
+
+h2{
+    color: white;
+    font-size: 35px;
+    margin-left: 30px;
+
+}
+
+img{
+    height: 200px;
+    margin-left: 30px;
+
+}
+a{
+    color: silver;
+    font-size: large;
+    margin-left: 30px;
+    font-weight: 800;
+    margin-top: 500px;
+}
